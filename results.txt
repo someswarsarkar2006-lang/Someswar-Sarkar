@@ -1,0 +1,13 @@
+DNA SEQUENCE MATCHER - SEARCH REPORT
+========================================
+DNA sequence length: 12
+Pattern searched: CGTA
+Number of matches: 2
+Zero-based positions: 3, 7
+One-based positions: 4, 8
+
+Base counts:
+A: 3
+T: 3
+G: 4
+C: 2
